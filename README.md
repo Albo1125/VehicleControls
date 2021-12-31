@@ -1,5 +1,5 @@
 # VehicleControls
-VehicleControls is a UK-based resource for FiveM by Albo1125 that provides for some additional control over vehicles.
+VehicleControls is a UK-based resource for FiveM by Albo1125 that provides for some additional control over vehicles. It is available at [https://github.com/Albo1125/VehicleControls](https://github.com/Albo1125/VehicleControls)
 
 ## Installation & Usage
 1. Download the latest release.
@@ -23,4 +23,4 @@ ensure VehicleControls
 Please view the license. Improvements and new feature additions are very welcome, please feel free to create a pull request. As a guideline, please do not release separate versions with minor modifications, but contribute to this repository directly. However, if you really do wish to release modified versions of my work, proper credit is always required and you should always link back to this original source and respect the licence.
 
 ## Libraries used (many thanks to their authors)
-* [CitizenFX.Core.Client](https://www.nuget.org/packages/CitizenFX.Core.Client/1.0.5133)
+* [CitizenFX.Core.Client](https://www.nuget.org/packages/CitizenFX.Core.Client)
