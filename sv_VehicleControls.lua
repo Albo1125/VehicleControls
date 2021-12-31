@@ -43,8 +43,6 @@ end
 
 RegisterCommand('speedlimit', speedlimitfunc, false)
 
-print("VehicleControls by Albo1125 (FiveM)")
-
 function trim(s)
   -- from PiL2 20.4
   return (s:gsub("^%s*(.-)%s*$", "%1"))
